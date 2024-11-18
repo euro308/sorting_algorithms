@@ -1,0 +1,5 @@
+# ninja log v6
+33	140	7532817873275428	CMakeFiles/calculator_header_files.dir/main.c.obj	a03f1375307676ac
+140	257	7532817874350716	calculator_header_files.exe	adc0ac50121cecef
+23	146	7532817502080044	CMakeFiles/calculator_header_files.dir/sorting.c.obj	4b343be3d6437e43
+2	368	7536517355523249	build.ninja	d0f27dd9f96840bd
